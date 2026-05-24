@@ -1,6 +1,6 @@
 # Principles Accounting Bundle
 
-**Author:** Nik Bear Brown
+**Author:** Humanitarians AI
 
 **Folder:** `books/principles-accounting-bundle/`
 
