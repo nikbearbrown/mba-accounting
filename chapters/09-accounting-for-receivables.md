@@ -1,5 +1,12 @@
 # Chapter 9 — Accounting for Receivables
 
+
+## TL;DR
+
+- A merchandiser sells a $4,000 order on credit, terms net 30.
+- The chapter moves through 1 Opening: The asset that hasn't arrived, 2 Accounts receivable, notes receivable, and other receivables, 3 Direct write-off vs. allowance method, Direct write-off method, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 ## 9.1 Opening: The asset that hasn't arrived
 
 A merchandiser sells a $4,000 order on credit, terms net 30. The journal entry records $4,000 of revenue (the income statement) and $4,000 of accounts receivable (the balance sheet). The company has done its part — the goods have shipped, the invoice has gone out. What it doesn't yet have is the cash. For the next thirty days, the $4,000 sits in Accounts Receivable, an asset, waiting.
@@ -353,8 +360,7 @@ Tests for each. Update spec.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Edward Altman** was developed the Z-score in 1968 — the credit-risk model that still anchors how analysts evaluate receivables.
 
 **Run this:**

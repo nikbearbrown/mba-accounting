@@ -1,5 +1,12 @@
 # Chapter 16 — Statement of Cash Flows
 
+
+## TL;DR
+
+- A company reports $50 million of net income for the year.
+- The chapter moves through 1 Opening: The statement that catches what the others miss, 2 The three categories, 3 The indirect method (operating section), 4 The direct method (operating section), and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 ## 16.1 Opening: The statement that catches what the others miss
 
 A company reports $50 million of net income for the year. The press release leads with that number; the analyst calls focus on it; the headline reads *Strong Earnings*. The next morning a different release goes out: an earnings restatement, a covenant violation, a sudden need for emergency financing. How can a profitable company need emergency cash?
@@ -436,8 +443,7 @@ one quarter)?
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Loyd C. Heath** was accounting theorist whose 1978 monograph "Financial Reporting and the Evaluation of Solvency" essentially designed the modern statement of cash flows.
 
 **Run this:**

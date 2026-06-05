@@ -1,5 +1,12 @@
 # Chapter 4 — The Adjustment Process
 
+
+## TL;DR
+
+- Mark Summers's first month at Supreme Cleaners ends.
+- The chapter moves through 1 Opening: When the trial balance lies, 2 Why the trial balance has incorrect balances at period-end, 3 Accrual accounting, the accounting period, and the fiscal year, 4 The four kinds of adjusting entries, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 ## 4.1 Opening: When the trial balance lies
 
 Mark Summers's first month at Supreme Cleaners ends. He pulls the unadjusted trial balance you produced at the end of Chapter 3. It balances — total debits $38,900, total credits $38,900. But Mark's accountant takes one look at the supplies account and frowns. The trial balance shows Supplies on hand at $800, the amount Mark bought at the beginning of October. The accountant walks back to the storage closet. There is maybe $300 worth of cleaning chemicals and packaging left. Five hundred dollars of supplies have been used in October. The trial balance does not know that. The journal does not know that. No transaction was recorded for the consumption — there was no invoice, no check, no event that triggered an entry. The supplies just got *used*, gradually, as Mark cleaned clothes.
@@ -282,8 +289,7 @@ Update the spec doc to reflect the new capability.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Jacob Soll** was historian whose The Reckoning traces accounting from medieval Italy to modern democracy — including the adjustment processes that shape policy.
 
 **Run this:**

@@ -1,5 +1,12 @@
 # Chapter 7 — Accounting Information Systems
 
+
+## TL;DR
+
+- A regional grocery chain with eighty-five stores rings up roughly twelve thousand customer transactions on a typical Saturday.
+- The chapter moves through 1 Opening: Twelve thousand transactions a day, 2 The four components of any accounting information system, 3 Special journals and subsidiary ledgers, Special journals, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 ## 7.1 Opening: Twelve thousand transactions a day
 
 A regional grocery chain with eighty-five stores rings up roughly twelve thousand customer transactions on a typical Saturday. Each transaction is, in accounting terms, a sale: revenue recorded, COGS recorded, inventory reduced, sales tax accrued. Twelve thousand sales a day, six days a week — multiplied by the company's purchase orders, payroll cycles, vendor payments, expense reimbursements, customer returns, gift-card redemptions, lottery sales, freight bills, utility payments — produces roughly half a million journal entries a month at the entity level. No human can write that many entries. No book of original entry can hold them legibly. And yet the company files audited financial statements at the end of each quarter, complete with footnotes, in the same multi-step income-statement and classified balance-sheet form Chapter 5 introduced.
@@ -244,9 +251,12 @@ Update spec doc.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Grace Murray Hopper** was created the first compiler in 1952 — and pioneered the use of computers in business information systems.
+
+![Grace Murray Hopper](../images/grace-hopper-wqk.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
 
 **Run this:**
 

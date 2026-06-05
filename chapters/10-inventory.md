@@ -1,5 +1,12 @@
 # Chapter 10 — Inventory
 
+
+## TL;DR
+
+- A wholesaler buys three identical widgets across the year — January 15 at $10 each, June 12 at $12 each, October 28 at $14 each.
+- The chapter moves through 1 Opening: Three identical widgets, three different costs, 2 The three cost-flow assumptions, FIFO (first-in, first-out), LIFO (last-in, first-out), and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 ## 10.1 Opening: Three identical widgets, three different costs
 
 A wholesaler buys three identical widgets across the year — January 15 at $10 each, June 12 at $12 each, October 28 at $14 each. Three units in stock at year-end, total cost $36. In November, the company sells two of the three for $25 apiece. Total revenue from the sale: $50.
@@ -309,9 +316,7 @@ Update spec.
 
 ---
 
-## AI Wayback Machine
-
-**Joseph Wharton** was founded the Wharton School in 1881 — the first collegiate business school in the world, formalizing inventory and operational accounting.
+##  AI Wayback Machine
 
 **Run this:**
 

@@ -1,5 +1,12 @@
 # Chapter 1 — The Role of Accounting in Society
 
+
+## TL;DR
+
+- In Chicago, in October 1931, a federal jury sends Al Capone to prison for eleven years.
+- The chapter moves through 1 Opening: Why ledgers are dangerous, 2 What accounting actually does, 3 Two audiences, two flavors of accounting, 4 Stakeholders and the architecture of oversight, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 ## 1.1 Opening: Why ledgers are dangerous
 
 In Chicago, in October 1931, a federal jury sends Al Capone to prison for eleven years. Not for the seven murders of the St. Valentine's Day Massacre two years earlier. Not for the bootlegging empire that had reportedly cleared a hundred million dollars a year — figures the federal government would later use to estimate his tax liability. The conviction is for *tax evasion*: failing to report illegal earnings on his 1928 and 1929 returns, after a 1927 Supreme Court ruling had made those earnings taxable. Witnesses to murders had been intimidated. Books showing bribes had been "lost." But somewhere, in some ledger, money had been written down by someone — and federal accountants read it. The longest tax-evasion sentence in American history, to that point, was handed down on a piece of bookkeeping.
@@ -247,8 +254,7 @@ by Chapter 16 — full year of operations.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Luca Pacioli** was Franciscan friar who published the first systematic treatise on double-entry bookkeeping in 1494.
 
 **Run this:**

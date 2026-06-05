@@ -1,5 +1,12 @@
 # Chapter 12 — Current Liabilities
 
+
+## TL;DR
+
+- We've spent eleven chapters building up the asset side of the balance sheet — cash, receivables, inventory, equipment, intangibles.
+- The chapter moves through 1 Opening: The other side of the ledger, 2 Accounts payable and short-term notes payable, 3 Payroll and the employer's hidden liabilities, 4 Sales tax payable, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 ## 12.1 Opening: The other side of the ledger
 
 We've spent eleven chapters building up the asset side of the balance sheet — cash, receivables, inventory, equipment, intangibles. Each chapter took a single asset class and worked through how it was recorded, valued, and reported. The balance sheet has another half. Liabilities are the obligations the company owes to others — the *claims* against its assets that aren't owners' claims. The accounting equation A = L + E will not balance unless the L side gets the same disciplined attention as the A side.
@@ -377,8 +384,7 @@ Update spec.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Robert N. Anthony** was Harvard Business School accounting professor who codified the modern framework for current liabilities and working capital.
 
 **Run this:**

@@ -1,5 +1,12 @@
 # Chapter 13 — Long-Term Liabilities
 
+
+## TL;DR
+
+- A company building a new manufacturing facility needs $50 million in capital.
+- The chapter moves through 1 Opening: Borrowing for the long haul, 2 Bonds, notes, mortgages, and leases, 3 Bond pricing: present value of cash flows, 4 Journalizing bond issuance, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 ## 13.1 Opening: Borrowing for the long haul
 
 A company building a new manufacturing facility needs $50 million in capital. Its short-term credit lines are inappropriate — the project will take three years to build and another decade to pay off through generated cash flow. The company needs *long-term* financing: a multi-year loan, a commercial mortgage, a bond issuance to public investors. Each instrument creates a long-term liability — an obligation due more than a year out — with structural features that distinguish it from the current liabilities of Chapter 12.
@@ -353,8 +360,7 @@ Update spec.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Sidney Davidson** was Chicago accounting theorist whose work on lease accounting reshaped how analysts treat long-term liabilities.
 
 **Run this:**

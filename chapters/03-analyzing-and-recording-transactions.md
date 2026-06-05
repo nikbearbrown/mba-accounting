@@ -1,5 +1,12 @@
 # Chapter 3 — Analyzing and Recording Transactions
 
+
+## TL;DR
+
+- Mark Summers is finishing college and wants to open a dry-cleaning business.
+- The chapter moves through 1 Opening: Mark Summers opens his dry cleaner, 2 Principles, assumptions, and the conceptual framework, 3 The accounting equation and double-entry bookkeeping, 4 Debits, credits, and the normal balance, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 ## 3.1 Opening: Mark Summers opens his dry cleaner
 
 Mark Summers is finishing college and wants to open a dry-cleaning business. He has the name picked out — *Supreme Cleaners*. He has a rough idea of his startup costs: presses, hangers, a steam unit, racks of plastic. He has a banker who has agreed in principle to extend a loan if Mark can show monthly financial information. He has a small group of family members who might be willing to invest in the venture in exchange for a share of ownership. What Mark does not have, yet, is any way to *record* what happens once Supreme Cleaners begins operating — the cash that comes in, the equipment that goes out the door, the wages that get paid, the bills that arrive, the customers who pay on the spot versus the ones who run a tab.
@@ -370,8 +377,7 @@ doc to reflect what's been added.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Christine Ladd-Franklin** was logician whose work on syllogistic reasoning prefigured the algorithmic analysis of transactions.
 
 **Run this:**

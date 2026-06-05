@@ -1,5 +1,12 @@
 # Chapter 8 — Fraud, Internal Controls, and Cash
 
+
+## TL;DR
+
+- Every asset on a company's balance sheet has some level of vulnerability to misappropriation.
+- The chapter moves through 1 Opening: The asset that walks out the door, 2 Fraud and the three pressures that produce it, 3 Sarbanes-Oxley and the COSO framework, 4 The principles of internal control applied to cash, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 ## 8.1 Opening: The asset that walks out the door
 
 Every asset on a company's balance sheet has some level of vulnerability to misappropriation. Inventory can be stolen, but inventory leaves a paper trail — bills of lading, receiving reports, physical counts. Equipment can be stolen, but equipment is heavy, registered, and noticeable when missing. Accounts receivable can be manipulated, but most fraud schemes against AR require collusion across multiple roles.
@@ -334,9 +341,7 @@ Tests for each. Update spec.
 
 ---
 
-## AI Wayback Machine
-
-**Harry Markopolos** was forensic accountant who warned the SEC about Bernie Madoff for years before the Ponzi scheme collapsed.
+##  AI Wayback Machine
 
 **Run this:**
 

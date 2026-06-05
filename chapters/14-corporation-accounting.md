@@ -1,5 +1,12 @@
 # Chapter 14 — Corporation Accounting
 
+
+## TL;DR
+
+- Mark Summers's Supreme Cleaners, the running example of Chapters 3-5, is a sole proprietorship.
+- The chapter moves through 1 Opening: The owner who is also a stranger, 2 Common stock and the basic rights of shareholders, 3 Preferred stock, 4 Treasury stock, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 ## 14.1 Opening: The owner who is also a stranger
 
 Mark Summers's Supreme Cleaners, the running example of Chapters 3-5, is a sole proprietorship. Mark *is* the business, in everything except formal accounting separation. He bears unlimited personal liability for its obligations. The business dissolves when Mark retires.
@@ -333,8 +340,7 @@ Update spec.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Catherine Schrand** was Wharton accounting researcher whose work on earnings management and corporate financial reporting shaped the field.
 
 **Run this:**

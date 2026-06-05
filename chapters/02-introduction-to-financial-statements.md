@@ -1,5 +1,12 @@
 # Chapter 2 — Introduction to Financial Statements
 
+
+## TL;DR
+
+- On September 28, 2017, a company you had probably never heard of opened on the public stock market.
+- The chapter moves through 1 Opening: An IPO at the closing bell, 2 The four statements, in the order accountants prepare them, 3 The income statement and statement of owner's equity, with a real worked example, 4 The balance sheet, equity as a concept, and the statement of cash flows, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 ## 2.1 Opening: An IPO at the closing bell
 
 On September 28, 2017, a company you had probably never heard of opened on the public stock market. Roku, Inc. — the streaming-television-device maker — had filed a Form S-1 with the Securities and Exchange Commission three weeks earlier, on September 1, disclosing the financial information any retail investor or institutional fund manager would need to decide whether to buy. The company estimated, the night before the IPO, that its shares would price somewhere between $12 and $14, raising more than $117 million. By the closing bell on the 28th, Roku stock was trading at $23.50 — nearly double the top of its expected range.
@@ -274,8 +281,7 @@ two-sentence update to the spec doc reflecting what was added.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Mary T. Washington** was first Black woman CPA in the United States (1943) — and trained hundreds of accountants from her Chicago practice.
 
 **Run this:**

@@ -1,5 +1,12 @@
 # Chapter 11 — Long-Term Assets
 
+
+## TL;DR
+
+- A small distribution business buys a delivery truck on January 2, 2018, for $40,000.
+- The chapter moves through 1 Opening: A truck that cost $40,000 in 2018, 2 What gets capitalized: the cost of an asset, 3 Depreciation: three methods, Straight-line depreciation, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 ## 11.1 Opening: A truck that cost $40,000 in 2018
 
 A small distribution business buys a delivery truck on January 2, 2018, for $40,000. The truck is expected to last seven years and to be worth roughly $5,000 as scrap at the end. By December 31, 2024 — seven years later — the truck has driven 280,000 miles, hauled tens of thousands of orders, broken down twice, been repaired three times, and has finally been sold to a used-vehicle wholesaler for $4,800.
@@ -356,9 +363,7 @@ Update spec.
 
 ---
 
-## AI Wayback Machine
-
-**Yuji Ijiri** was CMU accounting theorist who built much of the modern framework for analyzing capital and long-term assets.
+##  AI Wayback Machine
 
 **Run this:**
 

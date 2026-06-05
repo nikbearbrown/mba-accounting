@@ -1,5 +1,12 @@
 # Chapter 5 — Completing the Accounting Cycle
 
+
+## TL;DR
+
+- Mark Summers's October at Supreme Cleaners ends.
+- The chapter moves through 1 Opening: A second month begins, 2 Temporary and permanent accounts, 3 The four closing entries, 4 The post-closing trial balance and the complete cycle, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 ## 5.1 Opening: A second month begins
 
 Mark Summers's October at Supreme Cleaners ends. He has the adjusted trial balance from Chapter 4. The financial statements for October are sitting on the printer. What happens to all those balances on November 1?
@@ -311,9 +318,7 @@ Update the spec doc.
 
 ---
 
-## AI Wayback Machine
-
-**William Cooper** was co-developed Data Envelopment Analysis — the framework for evaluating organizational efficiency in accounting and operations.
+##  AI Wayback Machine
 
 **Run this:**
 

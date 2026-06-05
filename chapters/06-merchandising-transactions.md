@@ -1,5 +1,12 @@
 # Chapter 6 — Merchandising Transactions
 
+
+## TL;DR
+
+- Jason and James own a small business called J&J Games, specializing in the sale of video games and accessories.
+- The chapter moves through 1 Opening: The brothers and the inventory, 2 Merchandiser vs. service business: what's different, 3 Perpetual vs. periodic inventory systems, 4 Purchase transactions, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 ## 6.1 Opening: The brothers and the inventory
 
 Jason and James own a small business called J&J Games, specializing in the sale of video games and accessories. They buy their merchandise from a manufacturer called Marcus Electronics and sell directly to consumers. When J&J orders from Marcus, the two parties sign a contract detailing the purchase price, the payment terms (often "net 30" — pay within 30 days), the possibility of a discount for early payment ("2/10, net 30" — 2% off if paid within 10 days), and who bears the cost and risk of shipping the merchandise from Marcus's warehouse to J&J's stockroom.
@@ -401,9 +408,11 @@ Update spec doc.
 
 ---
 
-## AI Wayback Machine
+##  AI Wayback Machine
 
-**Antoine Lavoisier** was beheaded in the French Revolution despite — or because of — his pioneering role in standardizing measurement and merchant accounting.
+![Antoine Lavoisier](../images/antoine-lavoisier-n36.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
 
 **Run this:**
 

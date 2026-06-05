@@ -1,5 +1,12 @@
 # Chapter 15 — Partnership Accounting
 
+
+## TL;DR
+
+- Maya and Theo open a graphic-design studio together.
+- The chapter moves through 1 Opening: Two friends, one business, 2 Forms of partnership, 3 Partnership formation, 4 Profit and loss sharing, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 ## 15.1 Opening: Two friends, one business
 
 Maya and Theo open a graphic-design studio together. Maya brings $40,000 in cash; Theo brings $25,000 in cash plus a $15,000 desktop computer setup. They agree to share profits and losses equally. They want a structure simpler than a corporation — no shareholders, no board of directors, no Form S-1 — but more formal than each running a separate sole proprietorship that happens to share an address. The legal structure is a *partnership* — two or more people contributing money, property, or services to operate a business as co-owners.
@@ -451,8 +458,7 @@ Update spec.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **George O. May** was AICPA leader and Price Waterhouse partner who shaped the early 20th-century framework for partnership and professional accounting.
 
 **Run this:**
